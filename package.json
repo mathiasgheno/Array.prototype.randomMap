@@ -2,8 +2,8 @@
   "name": "array.prototype.randommap",
   "version": "1.0.0",
   "description": "Randomly Sorted Results and Array.prototype.map combined",
-  "main": "dist",
-  "types": "dist",
+  "main": "lib",
+  "types": "lib",
   "scripts": {
     "build": "tsc -p ."
   },

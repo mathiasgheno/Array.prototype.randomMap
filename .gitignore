@@ -56,3 +56,4 @@ typings/
 .env
 .env.test
 dist
+.idea

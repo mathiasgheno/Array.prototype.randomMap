@@ -1,6 +1,6 @@
 {
   "name": "array.prototype.randommap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Randomly Sorted Results and Array.prototype.map combined",
   "main": "lib",
   "types": "lib",

@@ -1,0 +1,29 @@
+{
+  "name": "array.prototype.randommap",
+  "version": "1.0.0",
+  "description": "Randomly Sorted Results and Array.prototype.map combined",
+  "main": "dist",
+  "types": "dist",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasgheno/Array.prototype.randomMap.git"
+  },
+  "keywords": [
+    "random",
+    "randomMap",
+    "map",
+    "array"
+  ],
+  "author": "Mathias Gheno Azzolini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathiasgheno/Array.prototype.randomMap/issues"
+  },
+  "homepage": "https://github.com/mathiasgheno/Array.prototype.randomMap#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}

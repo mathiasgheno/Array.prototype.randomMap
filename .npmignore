@@ -55,4 +55,6 @@ typings/
 *.tgz
 .env
 .env.test
-dist
+src
+tsconfig.json
+

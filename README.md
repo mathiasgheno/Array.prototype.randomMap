@@ -6,13 +6,13 @@ Apply the same `map` operations and get a new array sorted randomly.
 ### Instalation
 
 ```shell
-npm install array.prototype.randomMap
+npm install array.prototype.randommap
 ```
 
 ### Simple Usage
 
 ```javascript
-import 'array.prototype.randomMap'
+import 'array.prototype.randommap'
 
 const array = [1, 2, 3, 4, 5, 6];
 
